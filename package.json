@@ -1,0 +1,26 @@
+{
+  "name": "testing-workshop",
+  "version": "1.0.0",
+  "description": "// These are the Console commands we used to create this test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennisTarik/testing-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennisTarik/testing-workshop/issues"
+  },
+  "homepage": "https://github.com/DennisTarik/testing-workshop#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.1"
+  }
+}
